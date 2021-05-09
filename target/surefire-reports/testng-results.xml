@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10706" started-at="2021-05-09T20:11:24 IST" finished-at="2021-05-09T20:11:34 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10706" started-at="2021-05-09T20:11:24 IST" finished-at="2021-05-09T20:11:34 IST">
+      <class name="sampletestpackage.SampleFirstAPITest">
+        <test-method status="PASS" signature="addPlace()[pri:0, instance:sampletestpackage.SampleFirstAPITest@18eed359]" name="addPlace" duration-ms="3967" started-at="2021-05-09T20:11:24 IST" finished-at="2021-05-09T20:11:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPlace -->
+        <test-method status="PASS" signature="updatePlace()[pri:1, instance:sampletestpackage.SampleFirstAPITest@18eed359]" name="updatePlace" duration-ms="6400" started-at="2021-05-09T20:11:28 IST" finished-at="2021-05-09T20:11:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePlace -->
+        <test-method status="PASS" signature="testSampleNestedJson()[pri:2, instance:sampletestpackage.SampleFirstAPITest@18eed359]" name="testSampleNestedJson" duration-ms="265" started-at="2021-05-09T20:11:34 IST" finished-at="2021-05-09T20:11:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSampleNestedJson -->
+      </class> <!-- sampletestpackage.SampleFirstAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
